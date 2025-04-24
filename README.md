@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Elikanah8
-- 👀 I’m interested in  software development and website development
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on  application and web building and also their maintainance
-- 📫 How to reach me  via  instagram @m.n.e_jr 
-- 😄 HE
-- ⚡ 1+1=to your answer
+ Hi there, I'm Elikanah Njuru — @elikanah8
+
+I'm a passionate and curious **software development student** currently in my 3rd year of IT studies. I'm on a journey to master **Python** and **C++**, my two favorite languages, as I build my way toward becoming a skilled developer.
+
+I'm especially interested in:
+- Writing clean, efficient code
+- Building real-world projects
+- Exploring data structures, algorithms, and system design
+
+Currently:
+- Learning and growing every day
+- Working on academic and personal projects
+- Building a solid foundation in software development
+
+
 
 <!---
 Elikanah8/Elikanah8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
