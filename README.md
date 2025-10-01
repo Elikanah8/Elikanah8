@@ -1,6 +1,6 @@
  Hi there, I'm Elikanah Njuru — @elikanah8
 
-I'm a passionate and curious **software development student** currently in my 3rd year of IT studies. I'm on a journey to master **Python** and **C++**, my two favorite languages, as I build my way toward becoming a skilled developer.
+I'm a passionate and curious **software development student** currently in my 3rd year of IT studies graduating by  2026 dec . I'm on a journey to master **Python** and **C++**, my two favorite languages, as I build my way toward becoming a skilled developer.I also work in hand with the web technologies such as :HTML,CSS AND JS 
 
 I'm especially interested in:
 - Writing clean, efficient code
