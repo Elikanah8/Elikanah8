@@ -11,6 +11,10 @@ Currently:
 - Learning and growing every day
 - Working on academic and personal projects
 - Building a solid foundation in software development
+YOU KNOW WHAT 
+am not explainign codes solve them your way.....SON
+YOU CAN DO ANYTHING YOU THINK OF .....AND WE ALL START FROM SOMEWHERE
+
 
 
 
