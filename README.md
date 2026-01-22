@@ -1,28 +1,54 @@
- Hi there, I'm Elikanah Njuru — @elikanah8
+# 👋 Hi there, I'm Elikanah Njuru (@elikanah8)
 
-I'm a passionate and curious **software development student** currently in my 3rd year of IT studies graduating by  2026 dec . I'm on a journey to master **Python** and **C++**, my two favorite languages, as I build my way toward becoming a skilled developer.I also work in hand with the web technologies such as :HTML,CSS AND JS 
+🚀 A passionate and curious **Software Development / IT student**  
+🎓 3rd Year — graduating **December 2026**  
+🇰🇪 Kenya  
 
-I'm especially interested in:
-- Writing clean, efficient code
-- Building real-world projects
-- Exploring data structures, algorithms, and system design
+I’m on a journey to master **Python** and **C++**, my two favorite languages, while building a strong foundation in **software engineering** through hands-on academic and personal projects.
 
-Currently:
-- Learning and growing every day
-- Working on academic and personal projects
-- Building a solid foundation in software development
+> *“We all start from somewhere — and anything you think of is possible.”*
 
-  
-YOU KNOW WHAT 
+---
 
-I am not explaining codes solve them your way son ........
+## 💻 Languages & Technologies
 
- do you  know you CAN DO ANYTHING YOU THINK OF .....AND KEEP IN MIND WE ALL START FROM SOMEWHERE.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 
+---
 
+## 🧠 Interests & Focus Areas
 
+- ✨ Writing clean, efficient, and readable code  
+- 🛠️ Building real-world and academic projects  
+- 🧩 Data Structures & Algorithms  
+- 🏗️ Software design & system thinking  
 
-<!---
-Elikanah8/Elikanah8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌱 Currently
+
+- Learning and growing every day  
+- Working on academic & personal projects  
+- Strengthening my foundation in **Python**, **C++**, and **web technologies**
+
+---
+
+## 📊 GitHub Stats
+
+![Elikanah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elikanah8&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Dev Mindset
+
+> I don’t just explain code — I **solve problems**, break things, fix them,  
+> and learn along the way.  
+>  
+> **This is only the beginning.**
