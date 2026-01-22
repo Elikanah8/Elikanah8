@@ -1,16 +1,16 @@
-# 👋 Hi there, I'm Elikanah Njuru (@elikanah8)
+Hi there, I'm Elikanah Njuru (@elikanah8)
 
-🚀 A passionate and curious **Software Development / IT student**  
-🎓 3rd Year — graduating **December 2026**  
+ A passionate and curious **Software Development / IT student**  
+ 3rd Year — graduating **December 2026**  
 🇰🇪 Kenya  
 
-I’m on a journey to master **Python** and **C++**, my two favorite languages, while building a strong foundation in **software engineering** through hands-on academic and personal projects.
+I’m on a journey to master **Python** and **C++**, my two favorite languages, while building a strong foundation in software engineering through hands-on academic and personal projects.
 
 > *“We all start from somewhere — and anything you think of is possible.”*
 
 ---
 
-## 💻 Languages & Technologies
+💻 Languages & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -23,16 +23,16 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 
 ---
 
-## 🧠 Interests & Focus Areas
+ Interests & Focus Areas
 
-- ✨ Writing clean, efficient, and readable code  
-- 🛠️ Building real-world and academic projects  
-- 🧩 Data Structures & Algorithms  
-- 🏗️ Software design & system thinking  
+-  Writing clean, efficient, and readable code  
+-  Building real-world and academic projects  
+-  Data Structures & Algorithms  
+-  Software design & system thinking  
 
 ---
 
-## 🌱 Currently
+ Currently
 
 - Learning and growing every day  
 - Working on academic & personal projects  
@@ -40,7 +40,7 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 ![Elikanah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elikanah8&show_icons=true&theme=tokyonight)
 
