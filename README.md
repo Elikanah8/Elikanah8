@@ -1,7 +1,7 @@
 Hi there, I'm Elikanah Njuru (@elikanah8)
 
- A passionate and curious **Software Development / IT student**  
- 3rd Year — graduating **December 2026**  
+ A passionate and skilled **Software Development / IT student**  
+ 
 🇰🇪 Kenya  
 
 I’m on a journey to master **Python** and **C++**, my two favorite languages, while building a strong foundation in software engineering through hands-on academic and personal projects.
@@ -10,7 +10,7 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 
 ---
 
-💻 Languages & Technologies
+Languages & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
