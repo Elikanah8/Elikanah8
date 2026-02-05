@@ -41,6 +41,8 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 - Working on academic & personal projects  
 - Strengthening my foundation in **Python**, **C++**, and **web technologies**
 
+---
+
 
 
 ### 💡 Dev Mindset
@@ -53,7 +55,7 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 ---
 
 <p align="left">
-  <a href="https://https://buymeacoffee.com/technologi11>
+  <a href="https://buymeacoffee.com/technologi11">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
   </a>
 </p>
