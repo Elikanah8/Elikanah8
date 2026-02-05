@@ -41,18 +41,7 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 - Working on academic & personal projects  
 - Strengthening my foundation in **Python**, **C++**, and **web technologies**
 
----
 
-### 📊 GitHub Stats
-
-![Elikanah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elikanah8&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Fun Section
-![GitHub Readme Joke](https://github-readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
-
----
 
 ### 💡 Dev Mindset
 
@@ -64,7 +53,7 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 ---
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/elikanah8">
+  <a href="https://https://buymeacoffee.com/technologi11>
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
   </a>
 </p>
