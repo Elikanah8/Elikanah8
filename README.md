@@ -1,4 +1,4 @@
-# Hi there, I'm Elikanah Njuru (@elikanah8)
+ Hi there, I'm Elikanah Njuru (@elikanah8)
 
  A passionate and skilled **Software Development / IT student** 🇰🇪 Kenya  
 
@@ -21,8 +21,10 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 
 ---
 
-### 📈 Contribution Graph
-![Elikanah's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=elikanah8&theme=tokyonight&area=true&hide_border=true)
+### 📊 Contribution Stats
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elikanah8&theme=tokyonight" alt="Elikanah's Radar Chart" />
+</p>
 
 ---
 
@@ -43,9 +45,7 @@ I’m on a journey to master **Python** and **C++**, my two favorite languages, 
 
 ---
 
-
-
-### 💡 Dev Mindset
+💡 Dev Mindset
 
 > I don’t just explain code — I **solve problems**, break things, fix them,  
 > and learn along the way.  
