@@ -1,10 +1,10 @@
 Hi there, I'm Elikanah Njuru (@elikanah8)
 
- A passionate and skilled **Software Development / IT student** 🇰🇪 Kenya  
+ A passionate and skilled **Software Develer based in  🇰🇪 Kenya  
 
-I’m on a journey to master **Python** and **C++**, my two favorite languages, while building a strong foundation in software engineering through hands-on academic and personal projects.
+I’m on a journey to master **Python** and **C++**, my two favorite languages, while building a strong foundation in software engineering through hands-on academic and personal projects.Besides them i have worked along with PHP and Java languages
 
-> *“We all start from somewhere — and anything you think of is possible.”*
+> *“We all start from somewhere .”*
 
 ---
 
