@@ -8,24 +8,6 @@ I’m on a journey to master Python and C++, my two favorite languages, while bu
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=elikanah8&theme=tokyonight&column=7" alt="elikanah8 trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats & Contributions
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elikanah8&show_icons=true&theme=tokyonight" alt="Elikanah's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elikanah8&layout=compact&theme=tokyonight" alt="Elikanah's Top Languages" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elikanah8&theme=tokyonight" alt="Elikanah's Radar Chart" />
-</p>
 
 ---
 
