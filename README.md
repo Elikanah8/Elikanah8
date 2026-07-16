@@ -1,6 +1,6 @@
 Hi there, I'm Elikanah Njuru (@elikanah8)
 
- A passionate and skilled Software Develer based in  🇰🇪 Kenya  
+ A passionate and skilled Software Developer based in  🇰🇪 Kenya  
 
 I’m on a journey to master Python and C++, my two favorite languages, while building a strong foundation in software engineering through hands-on academic and personal projects.Besides them i have worked along with PHP and Java languages
 
